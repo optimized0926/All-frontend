@@ -2,8 +2,8 @@
 
 ### _Related links_
 
-- [api documentation]
-<---(https://documenter.getpostman.com/view/8741108/Tzm5GGb9)--->
+- api documentation
+<!-- https://documenter.getpostman.com/view/8741108/Tzm5GGb9 -->
 
 ### _Integration_
 
